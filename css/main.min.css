@@ -485,6 +485,7 @@
       -webkit-box-flex: 1;
       -ms-flex: 1 1 40rem;
       flex: 1 1 40rem; }
+       width: 100%; }
       .home__slider .slide img img {
         width: 100%; }
 
